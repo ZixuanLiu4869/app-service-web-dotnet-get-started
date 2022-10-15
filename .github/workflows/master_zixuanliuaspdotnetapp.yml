@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'zixuanliuaspdotnetapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A8874BBC90A448E9B961A5C91C9834E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_728D0DF4264A41D0B257A4E6BDB3E3FB }}
           package: .
